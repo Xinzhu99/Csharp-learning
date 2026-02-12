@@ -1,0 +1,14 @@
+/home/jinxinzhu/Documents/csharp/Week1-Basics/bin/Debug/net8.0/Week1-Basics
+/home/jinxinzhu/Documents/csharp/Week1-Basics/bin/Debug/net8.0/Week1-Basics.deps.json
+/home/jinxinzhu/Documents/csharp/Week1-Basics/bin/Debug/net8.0/Week1-Basics.runtimeconfig.json
+/home/jinxinzhu/Documents/csharp/Week1-Basics/bin/Debug/net8.0/Week1-Basics.dll
+/home/jinxinzhu/Documents/csharp/Week1-Basics/bin/Debug/net8.0/Week1-Basics.pdb
+/home/jinxinzhu/Documents/csharp/Week1-Basics/obj/Debug/net8.0/Week1-Basics.GeneratedMSBuildEditorConfig.editorconfig
+/home/jinxinzhu/Documents/csharp/Week1-Basics/obj/Debug/net8.0/Week1-Basics.AssemblyInfoInputs.cache
+/home/jinxinzhu/Documents/csharp/Week1-Basics/obj/Debug/net8.0/Week1-Basics.AssemblyInfo.cs
+/home/jinxinzhu/Documents/csharp/Week1-Basics/obj/Debug/net8.0/Week1-Basics.csproj.CoreCompileInputs.cache
+/home/jinxinzhu/Documents/csharp/Week1-Basics/obj/Debug/net8.0/Week1-Basics.dll
+/home/jinxinzhu/Documents/csharp/Week1-Basics/obj/Debug/net8.0/refint/Week1-Basics.dll
+/home/jinxinzhu/Documents/csharp/Week1-Basics/obj/Debug/net8.0/Week1-Basics.pdb
+/home/jinxinzhu/Documents/csharp/Week1-Basics/obj/Debug/net8.0/Week1-Basics.genruntimeconfig.cache
+/home/jinxinzhu/Documents/csharp/Week1-Basics/obj/Debug/net8.0/ref/Week1-Basics.dll
