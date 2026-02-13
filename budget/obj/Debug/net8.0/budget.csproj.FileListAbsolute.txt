@@ -1,0 +1,15 @@
+/home/jinxinzhu/Documents/csharp/budget/obj/Debug/net8.0/budget.GeneratedMSBuildEditorConfig.editorconfig
+/home/jinxinzhu/Documents/csharp/budget/obj/Debug/net8.0/budget.AssemblyInfoInputs.cache
+/home/jinxinzhu/Documents/csharp/budget/obj/Debug/net8.0/budget.AssemblyInfo.cs
+/home/jinxinzhu/Documents/csharp/budget/obj/Debug/net8.0/budget.csproj.CoreCompileInputs.cache
+/home/jinxinzhu/Documents/csharp/budget/obj/Debug/net8.0/budget.sourcelink.json
+/home/jinxinzhu/Documents/csharp/budget/bin/Debug/net8.0/budget
+/home/jinxinzhu/Documents/csharp/budget/bin/Debug/net8.0/budget.deps.json
+/home/jinxinzhu/Documents/csharp/budget/bin/Debug/net8.0/budget.runtimeconfig.json
+/home/jinxinzhu/Documents/csharp/budget/bin/Debug/net8.0/budget.dll
+/home/jinxinzhu/Documents/csharp/budget/bin/Debug/net8.0/budget.pdb
+/home/jinxinzhu/Documents/csharp/budget/obj/Debug/net8.0/budget.dll
+/home/jinxinzhu/Documents/csharp/budget/obj/Debug/net8.0/refint/budget.dll
+/home/jinxinzhu/Documents/csharp/budget/obj/Debug/net8.0/budget.pdb
+/home/jinxinzhu/Documents/csharp/budget/obj/Debug/net8.0/budget.genruntimeconfig.cache
+/home/jinxinzhu/Documents/csharp/budget/obj/Debug/net8.0/ref/budget.dll
