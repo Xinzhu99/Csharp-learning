@@ -1,0 +1,15 @@
+/home/jinxinzhu/Documents/csharp/todolist/bin/Debug/net8.0/todolist
+/home/jinxinzhu/Documents/csharp/todolist/bin/Debug/net8.0/todolist.deps.json
+/home/jinxinzhu/Documents/csharp/todolist/bin/Debug/net8.0/todolist.runtimeconfig.json
+/home/jinxinzhu/Documents/csharp/todolist/bin/Debug/net8.0/todolist.dll
+/home/jinxinzhu/Documents/csharp/todolist/bin/Debug/net8.0/todolist.pdb
+/home/jinxinzhu/Documents/csharp/todolist/obj/Debug/net8.0/todolist.GeneratedMSBuildEditorConfig.editorconfig
+/home/jinxinzhu/Documents/csharp/todolist/obj/Debug/net8.0/todolist.AssemblyInfoInputs.cache
+/home/jinxinzhu/Documents/csharp/todolist/obj/Debug/net8.0/todolist.AssemblyInfo.cs
+/home/jinxinzhu/Documents/csharp/todolist/obj/Debug/net8.0/todolist.csproj.CoreCompileInputs.cache
+/home/jinxinzhu/Documents/csharp/todolist/obj/Debug/net8.0/todolist.sourcelink.json
+/home/jinxinzhu/Documents/csharp/todolist/obj/Debug/net8.0/todolist.dll
+/home/jinxinzhu/Documents/csharp/todolist/obj/Debug/net8.0/refint/todolist.dll
+/home/jinxinzhu/Documents/csharp/todolist/obj/Debug/net8.0/todolist.pdb
+/home/jinxinzhu/Documents/csharp/todolist/obj/Debug/net8.0/todolist.genruntimeconfig.cache
+/home/jinxinzhu/Documents/csharp/todolist/obj/Debug/net8.0/ref/todolist.dll
