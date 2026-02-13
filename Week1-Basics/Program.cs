@@ -1,32 +1,40 @@
-﻿Console.WriteLine("Tapez C pour Celsius ou F pour Fahrenheit");
+﻿// 💪 Exercice 2 : Calculateur d'IMC (Indice de Masse Corporelle)
+// Specs :
+// Créer une console app qui :
 
-//lire le choix de l'user et stocker dans variable "choix"
-string choix = Console.ReadLine();
+// Demande le poids (en kg)
+// Demande la taille (en mètres, ex: 1.75)
+// Calcule l'IMC : IMC = poids / (taille × taille)
+// Affiche le résultat
+// Bonus : Affiche l'interprétation selon la catégorie
 
-Console.WriteLine("Vous avez tapé : " + choix);
+//1. demander le poids et la taille
+Console.WriteLine("Rentrez votre poids");
+double weight = double.Parse(Console.ReadLine());
+Console.WriteLine("Votre poids est :" + weight);
 
-if(choix != "C" && choix!= "F")
+Console.WriteLine("Rentrez votre taille");
+double height = double.Parse(Console.ReadLine());
+Console.WriteLine("Votre taille est :" + height);
+
+//2. calculer IMC
+double imc = weight /(height * height);
+Console.WriteLine("Votre IMC est : " + imc);
+
+//3. interprétations :
+if (imc < 18.5)
 {
-    Console.WriteLine("Erreur, taper C ou F");
-    choix = Console.ReadLine();
- }
-
- Console.WriteLine("Choix validé :" + choix);
-
-//demander un input de température en string et le convertir en double
-// string input = Console.ReadLine();
-Console.WriteLine("Tapez la température :");
-double temperature = double.Parse(Console.ReadLine());
-Console.WriteLine(temperature);
-
-if(choix == "C")
+    Console.WriteLine("Insuffisance pondérale");
+} else if (imc <= 24.9 && imc >= 18.5)
 {
-    double resultat = (temperature * 9/5) + 32;
-    Console.WriteLine($"Your converted temperature is : {resultat} F");
-}else if (choix == "F")
+    Console.WriteLine("Poids normal");
+
+} else if (imc <= 29.9 && imc>= 25)
 {
-    double resultat = (temperature - 32) * 5/9;
-    Console.WriteLine($"Your converted temperature is : {resultat} C");
+    Console.WriteLine("En surpoids");
+
+} else if (imc >= 30)
+{
+    Console.WriteLine("Obésité");
 
 }
-
