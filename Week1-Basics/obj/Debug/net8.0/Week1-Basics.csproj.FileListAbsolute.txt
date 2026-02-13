@@ -12,3 +12,4 @@
 /home/jinxinzhu/Documents/csharp/Week1-Basics/obj/Debug/net8.0/Week1-Basics.pdb
 /home/jinxinzhu/Documents/csharp/Week1-Basics/obj/Debug/net8.0/Week1-Basics.genruntimeconfig.cache
 /home/jinxinzhu/Documents/csharp/Week1-Basics/obj/Debug/net8.0/ref/Week1-Basics.dll
+/home/jinxinzhu/Documents/csharp/Week1-Basics/obj/Debug/net8.0/Week1-Basics.sourcelink.json
