@@ -1,0 +1,15 @@
+/home/jinxinzhu/Documents/csharp/GestionnaireFilms/obj/Debug/net8.0/GestionnaireFilms.GeneratedMSBuildEditorConfig.editorconfig
+/home/jinxinzhu/Documents/csharp/GestionnaireFilms/obj/Debug/net8.0/GestionnaireFilms.AssemblyInfoInputs.cache
+/home/jinxinzhu/Documents/csharp/GestionnaireFilms/obj/Debug/net8.0/GestionnaireFilms.AssemblyInfo.cs
+/home/jinxinzhu/Documents/csharp/GestionnaireFilms/obj/Debug/net8.0/GestionnaireFilms.csproj.CoreCompileInputs.cache
+/home/jinxinzhu/Documents/csharp/GestionnaireFilms/obj/Debug/net8.0/GestionnaireFilms.sourcelink.json
+/home/jinxinzhu/Documents/csharp/GestionnaireFilms/bin/Debug/net8.0/GestionnaireFilms
+/home/jinxinzhu/Documents/csharp/GestionnaireFilms/bin/Debug/net8.0/GestionnaireFilms.deps.json
+/home/jinxinzhu/Documents/csharp/GestionnaireFilms/bin/Debug/net8.0/GestionnaireFilms.runtimeconfig.json
+/home/jinxinzhu/Documents/csharp/GestionnaireFilms/bin/Debug/net8.0/GestionnaireFilms.dll
+/home/jinxinzhu/Documents/csharp/GestionnaireFilms/bin/Debug/net8.0/GestionnaireFilms.pdb
+/home/jinxinzhu/Documents/csharp/GestionnaireFilms/obj/Debug/net8.0/GestionnaireFilms.dll
+/home/jinxinzhu/Documents/csharp/GestionnaireFilms/obj/Debug/net8.0/refint/GestionnaireFilms.dll
+/home/jinxinzhu/Documents/csharp/GestionnaireFilms/obj/Debug/net8.0/GestionnaireFilms.pdb
+/home/jinxinzhu/Documents/csharp/GestionnaireFilms/obj/Debug/net8.0/GestionnaireFilms.genruntimeconfig.cache
+/home/jinxinzhu/Documents/csharp/GestionnaireFilms/obj/Debug/net8.0/ref/GestionnaireFilms.dll
