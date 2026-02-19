@@ -1,0 +1,15 @@
+/home/jinxinzhu/Documents/csharp/GestionnairePlaylists/bin/Debug/net8.0/GestionnairePlaylists
+/home/jinxinzhu/Documents/csharp/GestionnairePlaylists/bin/Debug/net8.0/GestionnairePlaylists.deps.json
+/home/jinxinzhu/Documents/csharp/GestionnairePlaylists/bin/Debug/net8.0/GestionnairePlaylists.runtimeconfig.json
+/home/jinxinzhu/Documents/csharp/GestionnairePlaylists/bin/Debug/net8.0/GestionnairePlaylists.dll
+/home/jinxinzhu/Documents/csharp/GestionnairePlaylists/bin/Debug/net8.0/GestionnairePlaylists.pdb
+/home/jinxinzhu/Documents/csharp/GestionnairePlaylists/obj/Debug/net8.0/GestionnairePlaylists.GeneratedMSBuildEditorConfig.editorconfig
+/home/jinxinzhu/Documents/csharp/GestionnairePlaylists/obj/Debug/net8.0/GestionnairePlaylists.AssemblyInfoInputs.cache
+/home/jinxinzhu/Documents/csharp/GestionnairePlaylists/obj/Debug/net8.0/GestionnairePlaylists.AssemblyInfo.cs
+/home/jinxinzhu/Documents/csharp/GestionnairePlaylists/obj/Debug/net8.0/GestionnairePlaylists.csproj.CoreCompileInputs.cache
+/home/jinxinzhu/Documents/csharp/GestionnairePlaylists/obj/Debug/net8.0/GestionnairePlaylists.sourcelink.json
+/home/jinxinzhu/Documents/csharp/GestionnairePlaylists/obj/Debug/net8.0/GestionnairePlaylists.dll
+/home/jinxinzhu/Documents/csharp/GestionnairePlaylists/obj/Debug/net8.0/refint/GestionnairePlaylists.dll
+/home/jinxinzhu/Documents/csharp/GestionnairePlaylists/obj/Debug/net8.0/GestionnairePlaylists.pdb
+/home/jinxinzhu/Documents/csharp/GestionnairePlaylists/obj/Debug/net8.0/GestionnairePlaylists.genruntimeconfig.cache
+/home/jinxinzhu/Documents/csharp/GestionnairePlaylists/obj/Debug/net8.0/ref/GestionnairePlaylists.dll
