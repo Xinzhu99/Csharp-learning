@@ -66,7 +66,7 @@ while (true)
         Console.WriteLine("NOUVELLE DEPENSE AJOUTÉE !");
         
     }
-    if(choix == "3")
+    else if(choix == "3")
     {
         for(int i = 0; i<transactions.Count; i++)
         {
@@ -74,7 +74,7 @@ while (true)
             Console.WriteLine($"{transactions[i].Type} --- {transactions[i].Description} : {transactions[i].Montant}");
         };
     }
-    if(choix == "4")
+    else if(choix == "4")
     {
         double totalRevenu = 0;
         double totalDepense = 0;
@@ -92,7 +92,7 @@ while (true)
         double solde = totalRevenu - totalDepense;
         Console.WriteLine($"Total : {solde}");
     }
-    if(choix == "5")
+    else if(choix == "5")
     {
         //quitter
         Console.WriteLine("Au revoir!");
