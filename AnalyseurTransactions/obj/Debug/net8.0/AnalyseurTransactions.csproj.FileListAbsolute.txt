@@ -1,0 +1,5 @@
+/home/jinxinzhu/Documents/csharp/AnalyseurTransactions/obj/Debug/net8.0/AnalyseurTransactions.GeneratedMSBuildEditorConfig.editorconfig
+/home/jinxinzhu/Documents/csharp/AnalyseurTransactions/obj/Debug/net8.0/AnalyseurTransactions.AssemblyInfoInputs.cache
+/home/jinxinzhu/Documents/csharp/AnalyseurTransactions/obj/Debug/net8.0/AnalyseurTransactions.AssemblyInfo.cs
+/home/jinxinzhu/Documents/csharp/AnalyseurTransactions/obj/Debug/net8.0/AnalyseurTransactions.csproj.CoreCompileInputs.cache
+/home/jinxinzhu/Documents/csharp/AnalyseurTransactions/obj/Debug/net8.0/AnalyseurTransactions.sourcelink.json
