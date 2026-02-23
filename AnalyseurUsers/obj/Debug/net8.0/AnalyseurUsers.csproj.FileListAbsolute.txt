@@ -1,0 +1,15 @@
+/home/jinxinzhu/Documents/csharp/AnalyseurUsers/bin/Debug/net8.0/AnalyseurUsers
+/home/jinxinzhu/Documents/csharp/AnalyseurUsers/bin/Debug/net8.0/AnalyseurUsers.deps.json
+/home/jinxinzhu/Documents/csharp/AnalyseurUsers/bin/Debug/net8.0/AnalyseurUsers.runtimeconfig.json
+/home/jinxinzhu/Documents/csharp/AnalyseurUsers/bin/Debug/net8.0/AnalyseurUsers.dll
+/home/jinxinzhu/Documents/csharp/AnalyseurUsers/bin/Debug/net8.0/AnalyseurUsers.pdb
+/home/jinxinzhu/Documents/csharp/AnalyseurUsers/obj/Debug/net8.0/AnalyseurUsers.GeneratedMSBuildEditorConfig.editorconfig
+/home/jinxinzhu/Documents/csharp/AnalyseurUsers/obj/Debug/net8.0/AnalyseurUsers.AssemblyInfoInputs.cache
+/home/jinxinzhu/Documents/csharp/AnalyseurUsers/obj/Debug/net8.0/AnalyseurUsers.AssemblyInfo.cs
+/home/jinxinzhu/Documents/csharp/AnalyseurUsers/obj/Debug/net8.0/AnalyseurUsers.csproj.CoreCompileInputs.cache
+/home/jinxinzhu/Documents/csharp/AnalyseurUsers/obj/Debug/net8.0/AnalyseurUsers.sourcelink.json
+/home/jinxinzhu/Documents/csharp/AnalyseurUsers/obj/Debug/net8.0/AnalyseurUsers.dll
+/home/jinxinzhu/Documents/csharp/AnalyseurUsers/obj/Debug/net8.0/refint/AnalyseurUsers.dll
+/home/jinxinzhu/Documents/csharp/AnalyseurUsers/obj/Debug/net8.0/AnalyseurUsers.pdb
+/home/jinxinzhu/Documents/csharp/AnalyseurUsers/obj/Debug/net8.0/AnalyseurUsers.genruntimeconfig.cache
+/home/jinxinzhu/Documents/csharp/AnalyseurUsers/obj/Debug/net8.0/ref/AnalyseurUsers.dll

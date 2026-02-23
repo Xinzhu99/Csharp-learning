@@ -1,0 +1,10 @@
+[
+  { "id": 1, "nom": "Alice Martin", "age": 28, "ville": "Paris", "abonnement": "Premium", "nbCommandes": 42 },
+  { "id": 2, "nom": "Bob Dupont", "age": 35, "ville": "Lyon", "abonnement": "Gratuit", "nbCommandes": 3 },
+  { "id": 3, "nom": "Clara Petit", "age": 22, "ville": "Paris", "abonnement": "Premium", "nbCommandes": 17 },
+  { "id": 4, "nom": "David Leroy", "age": 45, "ville": "Marseille", "abonnement": "Gratuit", "nbCommandes": 0 },
+  { "id": 5, "nom": "Emma Bernard", "age": 31, "ville": "Lyon", "abonnement": "Premium", "nbCommandes": 89 },
+  { "id": 6, "nom": "François Simon", "age": 19, "ville": "Paris", "abonnement": "Gratuit", "nbCommandes": 1 },
+  { "id": 7, "nom": "Grace Moreau", "age": 27, "ville": "Bordeaux", "abonnement": "Premium", "nbCommandes": 55 },
+  { "id": 8, "nom": "Hugo Laurent", "age": 52, "ville": "Marseille", "abonnement": "Gratuit", "nbCommandes": 7 }
+]
