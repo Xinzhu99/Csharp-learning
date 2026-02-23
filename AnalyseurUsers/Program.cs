@@ -13,26 +13,30 @@ Console.WriteLine($"{users.Count} utilisateurs chargés !" );
 
 //afficher tous les users premieum
 Console.WriteLine("===Tous les users premium===");
-var premiumUsers = users.Where(user => user.Abonnement == "Premium").ToList();
+
+//!!!!!
+IUserService service = new UserService(users);
+
+var premiumUsers = service.ObtenirPremiumUsers();
 foreach (var user in premiumUsers)
 {
     Console.WriteLine($"{user.Nom}");
 }
 //2=== les users de paris
 Console.WriteLine("===users in Paris");
-var parisUsers = users.Where(user => user.Ville == "Paris");
+var parisUsers = service.ObtenirParisUsers();
 foreach (var user in parisUsers)
 {
     Console.WriteLine($"{user.Nom}");
 }
 //3=== l'user avec le plus de commandes
-var usersByOrders = users.OrderByDescending(user => user.NbCommandes).ToList();
+var usersByOrders = service.RangerParCommande();
 Console.WriteLine($"User avec le plus de commandes : {usersByOrders[0].Nom} - {usersByOrders[0].NbCommandes} commandes");
 //4=== la moyenne d'age
-var averageAge = users.Average(user => user.Age);
+var averageAge = service.ObtenirLaMoyenne();
 Console.WriteLine($"L'age moyen : ${averageAge:F1}");
 //5=== le nombre d'utilisateurs par ville
-var usersByCity = users.GroupBy(user => user.Ville).ToList();
+var usersByCity = service.GroupeParVille();
 foreach (var group in usersByCity)
 {
     Console.WriteLine($"{group.Key} : {group.Count()} users");
