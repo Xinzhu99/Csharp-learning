@@ -10,6 +10,6 @@ public class Transaction
     {
         get ; set ;
     } = "";
-    public string Categorie {get ; set ;}
+    public string Categorie {get ; set ;} ="";
     public DateTime Date {get ; set ;}
 }

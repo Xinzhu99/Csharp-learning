@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AnalyseurTransactions/1.0.0": {
+        "runtime": {
+          "AnalyseurTransactions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnalyseurTransactions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

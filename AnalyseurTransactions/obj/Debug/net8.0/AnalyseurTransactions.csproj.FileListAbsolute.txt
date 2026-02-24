@@ -3,3 +3,13 @@
 /home/jinxinzhu/Documents/csharp/AnalyseurTransactions/obj/Debug/net8.0/AnalyseurTransactions.AssemblyInfo.cs
 /home/jinxinzhu/Documents/csharp/AnalyseurTransactions/obj/Debug/net8.0/AnalyseurTransactions.csproj.CoreCompileInputs.cache
 /home/jinxinzhu/Documents/csharp/AnalyseurTransactions/obj/Debug/net8.0/AnalyseurTransactions.sourcelink.json
+/home/jinxinzhu/Documents/csharp/AnalyseurTransactions/bin/Debug/net8.0/AnalyseurTransactions
+/home/jinxinzhu/Documents/csharp/AnalyseurTransactions/bin/Debug/net8.0/AnalyseurTransactions.deps.json
+/home/jinxinzhu/Documents/csharp/AnalyseurTransactions/bin/Debug/net8.0/AnalyseurTransactions.runtimeconfig.json
+/home/jinxinzhu/Documents/csharp/AnalyseurTransactions/bin/Debug/net8.0/AnalyseurTransactions.dll
+/home/jinxinzhu/Documents/csharp/AnalyseurTransactions/bin/Debug/net8.0/AnalyseurTransactions.pdb
+/home/jinxinzhu/Documents/csharp/AnalyseurTransactions/obj/Debug/net8.0/AnalyseurTransactions.dll
+/home/jinxinzhu/Documents/csharp/AnalyseurTransactions/obj/Debug/net8.0/refint/AnalyseurTransactions.dll
+/home/jinxinzhu/Documents/csharp/AnalyseurTransactions/obj/Debug/net8.0/AnalyseurTransactions.pdb
+/home/jinxinzhu/Documents/csharp/AnalyseurTransactions/obj/Debug/net8.0/AnalyseurTransactions.genruntimeconfig.cache
+/home/jinxinzhu/Documents/csharp/AnalyseurTransactions/obj/Debug/net8.0/ref/AnalyseurTransactions.dll

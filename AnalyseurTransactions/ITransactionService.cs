@@ -5,8 +5,8 @@ public interface ITransactionService
     List<Transaction> ObtenirCredits();
     List<Transaction> ObtenirGrossesDepenses();
     double CalculSoldes();
-    IEnumerable<IGrouping< string, Transaction>> DepensesParCategorie();
+    IEnumerable <dynamic> DepensesParCategorie();
     List<Transaction> ObtenirParDate();
-    IGrouping< string, Transaction> CategoriePlusDepensiere();
+    dynamic CategoriePlusDepensiere();
 
 }

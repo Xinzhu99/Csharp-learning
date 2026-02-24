@@ -1,47 +1,70 @@
 using System.Text.RegularExpressions;
-using System.Transactions;
 
 public class TransactionService : ITransactionService
 {
     private List<Transaction> _transactions;
-    public UserService (List<Transaction> data)
+    public TransactionService (List<Transaction> data)
     {
         _transactions = data;
     }
 
     public List<Transaction> ObtenirDebit()
     {
-        return _transactions.Where(transaction => transaction.GetType == "Débit");
+        return _transactions.Where(transaction => transaction.Type == "Débit").ToList();
     }
 
      public List<Transaction> ObtenirCredits()
     {
-        return _transactions.Where(transaction => transaction.GetType == "Crédit").toList();
+        return _transactions.Where(transaction => transaction.Type == "Crédit").ToList();
     }
 
     public List<Transaction> ObtenirGrossesDepenses()
     {
-        return _transactions.Where(transaction => transaction.GetType == "Débit" && transaction.Montant > 100).toList();
+        return _transactions.Where(transaction => transaction.Type == "Débit" && transaction.Montant > 100).ToList();
     }
 
     public double CalculSoldes()
     {
         var totalDebit = _transactions
         .Where(transaction => transaction.Type =="Débit")
-        .toList()
+        .ToList()
         .Sum(transaction => transaction.Montant);
 
         var totalCredit = _transactions
         .Where(transaction => transaction.Type =="Crédit")
-        .toList()
+        .ToList()
         .Sum(transaction => transaction.Montant);
 
         return totalCredit - totalDebit;
     }
 
-    public IEnumerable<IGrouping< string, Transaction>> DepensesParCategorie()
+    public IEnumerable<dynamic> DepensesParCategorie()
     {
-        var categories = _transactions.GroupBy( transaction => transaction.Categorie).toList();
+        return _transactions.Where(transaction => transaction.Type == "Débit")
+        .GroupBy( transaction => transaction.Categorie)
+        .Select(group => new
+        {
+            Categorie = group.Key,
+            Total = group.Sum(t => t.Montant)
+        });
     }
 
+    public List<Transaction> ObtenirParDate()
+    {
+        return _transactions.OrderByDescending(transaction => transaction.Date).ToList();
+    }
+
+    public dynamic CategoriePlusDepensiere()
+    {
+        return _transactions.Where(transaction => transaction.Type == "Débit")
+        .GroupBy(transaction => transaction.Categorie)
+        .Select(group => new 
+        {
+            Categorie = group.Key,
+            Total = group.Sum(t => t.Montant)
+            
+        })
+        .OrderByDescending(g => g.Total)
+        .First();
+    }
 }
